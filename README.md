@@ -10,6 +10,8 @@ three.js
 
 https://github.com/mrdoob/three.js/blob/master/examples/games_fps.html
 
+https://webpack.js.org/
+
 The aim of the project is to create an easy to use, lightweight, cross-browser, general purpose 3D library. The current builds only include a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available in the examples.
 
 [Examples](https://threejs.org/examples/) &mdash;
